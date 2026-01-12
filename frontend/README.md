@@ -1,0 +1,1 @@
+This folder contains all the frontend code for the Malaysian Football League Fantasy League.
